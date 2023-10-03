@@ -1,0 +1,7 @@
+Halo pak! Salam kenal, saya Nurul dari Bekasi.
+
+Resolusi saya:
+- Membuat CRUD menggunakan React JS dan Node JS
+- Menguasai laravel secara kompleks
+- Menguasai javascript dengan sangat baik
+- Bisa dapat beasiswa kuliah
